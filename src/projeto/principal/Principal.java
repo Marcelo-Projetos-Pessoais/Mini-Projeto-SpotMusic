@@ -15,6 +15,7 @@ public class Principal {
         for (int i = 0; i < 1000; i++) {
             musica.reproduzir();
         }
+
         for (int i = 0; i < 50; i++) {
             musica.curtir();
         }
